@@ -1,6 +1,6 @@
 
 ### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 18-04-2024
+### DATE: 21-03-2024
 ### Name  :sakthivel M
 ### Reg no:212222240088
 ### AIM: 
